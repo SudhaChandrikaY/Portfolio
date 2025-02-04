@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Course Review Analysis",
+    "description": "Course Review Analysis Application is built using NLP techniques and the BERT model. The project collects and analyzes course reviews, leveraging pre-trained transformers for sentiment classification and generating insights.",
+    "skills": ["Flask", "Machine Learning", "Python","HTML","CSS","JS","SQLite"],
+    "source": "https://github.com/SudhaChandrikaY/CourseReviewAnalysis_EndtoEnd_Application"
+  },
+  {
+    "title": "Domain-based Search Engine",
+    "description": "This Project is a  simple Search Engine implemented with https://ku.edu as seed page. It includes components web crawling, text preprocessing, stemming, and a ranking mechanism using the Vector Space Model.",
+    "skills": ["Flask", "Python","HTML","CSS","JS","DSA","NLP"],
+    "source": "https://github.com/SudhaChandrikaY/SearchEngine"
+  },
+  {
+    "title": "Budget Tracker Web Application",
+    "description": "A simple user-friendly app to track expenses. Features include transaction categorization, spending summaries, and interactive charts to visualize financial data, helping users stay on top of their budget.",
+    "skills": ["Next.js","Tailwind CSS","React","Drizzle ORM","Clerk","Vercel"],
+    "source": "https://github.com/SudhaChandrikaY/BudgetTracker-App"
+  },
+  {
+    "title": "Graduate Admissions Prediction",
+    "description": "This project predicts the likelihood of graduate admissions using machine learning techniques. By analyzing data like GRE, TOEFL scores, GPA, and other features, evaluated models to predict a candidate's admission chances.",
+    "skills": ["Machine Learning", "Python", "Data Preprocessing"],
+    "Website": "https://budgettracker-app.vercel.app/",
+    "source": "https://github.com/SudhaChandrikaY/PredictingGraduateAdmissions"
+  }
+]

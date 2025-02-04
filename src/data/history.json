@@ -1,0 +1,35 @@
+[
+  {
+    "role": "IT Project Manager Intern ",
+    "organisation": "Co-x3 Family Foundation",
+    "startDate": "April 2024",
+    "endDate": "Aug 2024",
+    "experiences": ["Optimized project management processes, improving efficiency by 30% and driving seamless collaboration among stakeholders"],
+    "imageSrc": "history/cox3.png"
+  },
+  {
+    "role": "Technical Intern",
+    "organisation": "T-Mobile",
+    "startDate": "May 2023",
+    "endDate": "Aug 2023",
+    "experiences": ["Automated data processes with Python, reducing manual effort by 90% and report generation time by 50%"],
+    "imageSrc": "history/TmobileLogo.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Cognizant",
+    "startDate": "June 2020",
+    "endDate": "June 2022",
+    "experiences": ["Developed Java-based business rules; integrated data pipelines and optimized system performance"],
+    "imageSrc": "history/cognizant.png"
+  },
+  {
+    "role": "Full-Stack Dev Intern",
+    "organisation": "Cognizant",
+    "startDate": "Dec 2019",
+    "endDate": "May 2020",
+    "experiences": ["Built a full-stack academic portal, improving data management through efficient CRUD operations"],
+    "imageSrc": "history/cognizant.png"
+
+  }
+]
