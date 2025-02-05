@@ -14,7 +14,7 @@ export const Navbar = () => {
           className={styles.menuBtn}
           src={
             menuOpen
-              ? "/assets/nav/closeIcon.png"  // Direct path, like in Experience
+              ? "/assets/nav/closeIcon.png" 
               : "/assets/nav/menuIcon.png"
           }
           alt="menu-button"

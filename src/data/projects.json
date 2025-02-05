@@ -1,27 +1,39 @@
 [
   {
-    "title": "Course Review Analysis",
-    "description": "Course Review Analysis Application is built using NLP techniques and the BERT model. The project collects and analyzes course reviews, leveraging pre-trained transformers for sentiment classification and generating insights.",
+    "title": "Budget Tracker Web Application",
+    "description": "Built and deployed a user-friendly app to track expenses. Features include transaction categorization, spending summaries, and charts to visualize financial data, helping users stay on top of their budget.",
+    "skills": ["Next.js", "Tailwind CSS", "React", "Drizzle ORM", "Clerk", "Vercel"],
+    "source": "https://github.com/SudhaChandrikaY/BudgetTracker-App"
+  },
+  {
+    "title": "Course Review Analysis: End-to-End Application",
+    "description": "This project delivered a platform for analyzing and visualizing course feedback using BERT, a transformer-based sentiment analysis model, along with dynamic visualizations and an intuitive web interface.",
     "skills": ["Flask", "Machine Learning", "Python","HTML","CSS","JS","SQLite"],
     "source": "https://github.com/SudhaChandrikaY/CourseReviewAnalysis_EndtoEnd_Application"
   },
   {
-    "title": "Domain-based Search Engine",
-    "description": "This Project is a  simple Search Engine implemented with https://ku.edu as seed page. It includes components web crawling, text preprocessing, stemming, and a ranking mechanism using the Vector Space Model.",
+    "title": "Search Engine",
+    "description": "Built a domain-based search engine with seed page as KU official page and the web crawler crawls all the pages starting from seed page and stores the data. Users can search queries related to the domain of the search engine and get the relevant search results.",
     "skills": ["Flask", "Python","HTML","CSS","JS","DSA","NLP"],
     "source": "https://github.com/SudhaChandrikaY/SearchEngine"
   },
   {
-    "title": "Budget Tracker Web Application",
-    "description": "A simple user-friendly app to track expenses. Features include transaction categorization, spending summaries, and interactive charts to visualize financial data, helping users stay on top of their budget.",
-    "skills": ["Next.js","Tailwind CSS","React","Drizzle ORM","Clerk","Vercel"],
-    "source": "https://github.com/SudhaChandrikaY/BudgetTracker-App"
+    "title": "Portfolio Website",
+    "description": "This project is my personal portfolio website designed to showcase my skills, projects, and accomplishments. Built with HTML, CSS, and React, it features a modern, responsive design optimized for both desktop and mobile devices.",
+    "skills": ["HTML","CSS","JavaScript","React","Figma","Netlify"],
+    "source": "https://github.com/SudhaChandrikaY/Portfolio"
   },
   {
     "title": "Graduate Admissions Prediction",
-    "description": "This project predicts the likelihood of graduate admissions using machine learning techniques. By analyzing data like GRE, TOEFL scores, GPA, and other features, evaluated models to predict a candidate's admission chances.",
-    "skills": ["Machine Learning", "Python", "Data Preprocessing"],
+    "description": "By analyzing a large dataset containing GRE, TOEFL scores, GPA, and other features, this project predicts the candidate's admission chances using machine learning techniques.",
+    "skills": ["Machine Learning", "Python", "Preprocessing", "Data Analysis"],
     "Website": "https://budgettracker-app.vercel.app/",
     "source": "https://github.com/SudhaChandrikaY/PredictingGraduateAdmissions"
+  },
+  {
+    "title": "Multi-modal GenAI Chatbot (In Progress)",
+    "description": "This project is focused on integrating large language models and multimodal AI capabilities, aiming to support AI responses based on multiple input types.",
+    "skills": ["Generative AI", "Python", "Large language models", "Streamlit", "Hugging Face"],
+    "source": "https://github.com/SudhaChandrikaY/Multimodal_GenAI_App"
   }
 ]
