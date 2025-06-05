@@ -68,6 +68,7 @@
   width: 100%;
   margin-top: 26px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   gap: 12px;
 }
@@ -79,6 +80,7 @@
   font-size: 16px;
   font-weight: 600;
   border-radius: 100px;
+  flex-wrap: wrap;
   background: var(--color-primary);
   padding: 8px 16px;
   transition: 0.3s ease;
