@@ -29,5 +29,11 @@
     "skills": ["Machine Learning", "Python", "Preprocessing", "Data Analysis"],
     "Website": "https://budgettracker-app.vercel.app/",
     "source": "https://github.com/SudhaChandrikaY/PredictingGraduateAdmissions"
+  },
+  {
+    "title": "Multi-modal GenAI Chatbot (In Progress)",
+    "description": "This project is focused on integrating large language models and multimodal AI capabilities, aiming to support AI responses based on multiple input types.",
+    "skills": ["Generative AI", "Python", "Large language models", "Streamlit", "Hugging Face"],
+    "source": "https://github.com/SudhaChandrikaY/Multimodal_GenAI_App"
   }
 ]
