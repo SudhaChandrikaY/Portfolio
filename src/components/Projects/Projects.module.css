@@ -5,6 +5,9 @@
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
+  margin-top: 10%;
+  max-height: 400px;
+  max-width: 400px;
 }
 
 .title {

@@ -8,6 +8,7 @@ export const ProjectCard = ({
 }) => {
   return (
     <div className={styles.container}>
+       <div className={styles.content}>
       <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>
       <ul className={styles.skills}>
@@ -19,6 +20,7 @@ export const ProjectCard = ({
           );
         })}
       </ul>
+      </div>
       <div className={styles.links}>
         <a href={source} className={styles.link} target="_blank">
           Source
